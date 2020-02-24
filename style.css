@@ -1,3 +1,21 @@
+
+
 body {
-    background-color:green;
+    display: block;
+    text-align:center;
+    background-color:#70acb1;
+    margin: auto;
+    padding: 40px;
+    font-family: 'Montserrat';
+    color:#f0fff3;
 }
+
+
+
+
+
+
+
+
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
