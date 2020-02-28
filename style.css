@@ -193,8 +193,7 @@ body {
   font-family: 'Open Sans';
   color: hsl(192, 100%, 9%);
   width: 1280px;
-  margin-top: 0;
-  margin-bottom:0;
+  margin:0;
   Font-size: 18px;
   align-items: center;
   padding: 0;
