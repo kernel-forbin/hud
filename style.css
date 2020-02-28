@@ -338,7 +338,10 @@ CLASS BOXES
 }
 
 .top-box {
-  margin: auto;
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  height: 50%;
 }
 
 .top-logo {
